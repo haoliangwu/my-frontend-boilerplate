@@ -6,4 +6,4 @@
 * [x] less/sass
 * [x] karma
 * [x] react
-* [] redux
+* [ ] redux
