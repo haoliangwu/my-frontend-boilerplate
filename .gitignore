@@ -1,0 +1,13 @@
+dist
+coverage.html
+/coverage
+.DS_Store
+node_modules
+publish
+*.sock
+*.swp
+*.bat
+*.sh
+*.log
+.idea
+.setting
